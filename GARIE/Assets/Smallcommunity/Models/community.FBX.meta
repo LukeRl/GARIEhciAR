@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 0f0eb642e63689c43a3cf193b8ff4347
+timeCreated: 1534141878
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HouseA
+    100004: HouseA 1
+    100006: HouseA 1_MeshPart0
+    100008: HouseA 1_MeshPart1
+    100010: HouseA_MeshPart0
+    100012: HouseA_MeshPart1
+    100014: HouseB
+    100016: HouseB_MeshPart0
+    100018: HouseB_MeshPart1
+    100020: HouseC
+    100022: HouseC_MeshPart0
+    100024: HouseC_MeshPart1
+    100026: Model01
+    100028: Model02
+    100030: Model03
+    100032: Model04
+    100034: Model05
+    100036: Model06
+    100038: Model07
+    100040: Model08
+    100042: Model09
+    100044: Model10
+    100046: Model11
+    100048: Model12
+    100050: Model13
+    100052: Model14
+    100054: Model15
+    100056: Model16
+    100058: Model17
+    100060: Model18
+    100062: Model19
+    100064: Model20
+    100066: Model21
+    100068: Model22
+    100070: Model23
+    100072: Model24
+    100074: Model25
+    100076: Model26
+    100078: Model27
+    100080: Model28
+    100082: Model29
+    100084: Model30
+    100086: Model31
+    100088: Model32
+    100090: Model33
+    100092: Model34
+    100094: Model35
+    100096: Model36
+    100098: Model37
+    100100: Model38
+    100102: Model39
+    100104: Model40
+    100106: Model41
+    100108: Model42
+    400000: //RootNode
+    400002: HouseA
+    400004: HouseA 1
+    400006: HouseA 1_MeshPart0
+    400008: HouseA 1_MeshPart1
+    400010: HouseA_MeshPart0
+    400012: HouseA_MeshPart1
+    400014: HouseB
+    400016: HouseB_MeshPart0
+    400018: HouseB_MeshPart1
+    400020: HouseC
+    400022: HouseC_MeshPart0
+    400024: HouseC_MeshPart1
+    400026: Model01
+    400028: Model02
+    400030: Model03
+    400032: Model04
+    400034: Model05
+    400036: Model06
+    400038: Model07
+    400040: Model08
+    400042: Model09
+    400044: Model10
+    400046: Model11
+    400048: Model12
+    400050: Model13
+    400052: Model14
+    400054: Model15
+    400056: Model16
+    400058: Model17
+    400060: Model18
+    400062: Model19
+    400064: Model20
+    400066: Model21
+    400068: Model22
+    400070: Model23
+    400072: Model24
+    400074: Model25
+    400076: Model26
+    400078: Model27
+    400080: Model28
+    400082: Model29
+    400084: Model30
+    400086: Model31
+    400088: Model32
+    400090: Model33
+    400092: Model34
+    400094: Model35
+    400096: Model36
+    400098: Model37
+    400100: Model38
+    400102: Model39
+    400104: Model40
+    400106: Model41
+    400108: Model42
+    2300000: HouseA 1_MeshPart0
+    2300002: HouseA 1_MeshPart1
+    2300004: HouseA_MeshPart0
+    2300006: HouseA_MeshPart1
+    2300008: HouseB_MeshPart0
+    2300010: HouseB_MeshPart1
+    2300012: HouseC_MeshPart0
+    2300014: HouseC_MeshPart1
+    2300016: Model01
+    2300018: Model02
+    2300020: Model03
+    2300022: Model04
+    2300024: Model05
+    2300026: Model06
+    2300028: Model07
+    2300030: Model08
+    2300032: Model09
+    2300034: Model10
+    2300036: Model11
+    2300038: Model12
+    2300040: Model13
+    2300042: Model14
+    2300044: Model15
+    2300046: Model16
+    2300048: Model17
+    2300050: Model18
+    2300052: Model19
+    2300054: Model20
+    2300056: Model21
+    2300058: Model22
+    2300060: Model23
+    2300062: Model24
+    2300064: Model25
+    2300066: Model26
+    2300068: Model27
+    2300070: Model28
+    2300072: Model29
+    2300074: Model30
+    2300076: Model31
+    2300078: Model32
+    2300080: Model33
+    2300082: Model34
+    2300084: Model35
+    2300086: Model36
+    2300088: Model37
+    2300090: Model38
+    2300092: Model39
+    2300094: Model40
+    2300096: Model41
+    2300098: Model42
+    3300000: HouseA 1_MeshPart0
+    3300002: HouseA 1_MeshPart1
+    3300004: HouseA_MeshPart0
+    3300006: HouseA_MeshPart1
+    3300008: HouseB_MeshPart0
+    3300010: HouseB_MeshPart1
+    3300012: HouseC_MeshPart0
+    3300014: HouseC_MeshPart1
+    3300016: Model01
+    3300018: Model02
+    3300020: Model03
+    3300022: Model04
+    3300024: Model05
+    3300026: Model06
+    3300028: Model07
+    3300030: Model08
+    3300032: Model09
+    3300034: Model10
+    3300036: Model11
+    3300038: Model12
+    3300040: Model13
+    3300042: Model14
+    3300044: Model15
+    3300046: Model16
+    3300048: Model17
+    3300050: Model18
+    3300052: Model19
+    3300054: Model20
+    3300056: Model21
+    3300058: Model22
+    3300060: Model23
+    3300062: Model24
+    3300064: Model25
+    3300066: Model26
+    3300068: Model27
+    3300070: Model28
+    3300072: Model29
+    3300074: Model30
+    3300076: Model31
+    3300078: Model32
+    3300080: Model33
+    3300082: Model34
+    3300084: Model35
+    3300086: Model36
+    3300088: Model37
+    3300090: Model38
+    3300092: Model39
+    3300094: Model40
+    3300096: Model41
+    3300098: Model42
+    4300000: Model01
+    4300002: Model02
+    4300004: Model03
+    4300006: Model04
+    4300008: Model05
+    4300010: Model06
+    4300012: Model07
+    4300014: Model08
+    4300016: Model09
+    4300018: Model10
+    4300020: Model11
+    4300022: Model12
+    4300024: Model13
+    4300026: Model14
+    4300028: Model15
+    4300030: Model16
+    4300032: Model17
+    4300034: Model18
+    4300036: Model19
+    4300038: Model20
+    4300040: Model21
+    4300042: Model22
+    4300044: Model23
+    4300046: Model24
+    4300048: Model25
+    4300050: Model26
+    4300052: Model27
+    4300054: Model28
+    4300056: Model29
+    4300058: Model30
+    4300060: Model31
+    4300062: Model32
+    4300064: Model33
+    4300066: Model34
+    4300068: Model35
+    4300070: Model36
+    4300072: Model37
+    4300074: Model38
+    4300076: HouseA_MeshPart0
+    4300078: HouseA_MeshPart1
+    4300080: Model39
+    4300082: HouseB_MeshPart0
+    4300084: HouseB_MeshPart1
+    4300086: HouseC_MeshPart0
+    4300088: HouseC_MeshPart1
+    4300090: HouseA_MeshPart0
+    4300092: HouseA_MeshPart1
+    4300094: Model40
+    4300096: Model41
+    4300098: Model42
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
